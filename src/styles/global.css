@@ -1,1 +1,38 @@
 @import "tailwindcss";
+
+/* @theme {
+  extend: {
+    colors: {
+      primary: '#',
+      secondary: '#',
+      accent: '#',
+      background: '#',
+      text: '#',
+    },
+    fontFamily: {
+      sans: ['Inter', 'sans-serif'],
+      serif: ['Plus Jakarta Sans', 'serif'],
+    },
+    fontSize: {
+      small: '12px',
+      base: '16px',
+      h3: '20px',
+      h2: '32px',
+      h1: '52px',
+      hero: '84px',
+      lg: '18px',
+      xl: '20px',
+    },
+    padding: {
+        xs: '4px',       
+        sm: '8px',
+        md: '13px',
+        lg: '21px',
+        xl: '34px',
+        '2xl': '55px',
+        '3xl': '89px',
+        '4xl': '144px',
+        '5xl': '233px' 
+    },
+  },
+} */
